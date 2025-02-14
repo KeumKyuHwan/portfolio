@@ -1,7 +1,5 @@
 # 금규환의 Portfolio
 
----
-
 ## 🔥 About Me
 ### " 끊임없이 배우고 성장하는 것을 즐기며, 새로운 기술과 지식을 탐구하는 데 열정을 가지고 있습니다. 문제를 해결하는 과정에서 끊임없이 고민하고 도전하며, 성실함과 책임감을 바탕으로 최선을 다하는 개발자가 되겠습니다. "
 
@@ -41,8 +39,6 @@
 📌 JPA를 활용한 데이터 관리  
 📌 인덱싱을 사용하여 검색 속도 개선
 
-🔗 **GitHub Repository** : [Komofunding 프로젝트](https://github.com/coding-ji/portfolio/tree/main/komofunding)
-
 ---
 
 ### ⚽ 축구 매칭 플랫폼, **Pitchplay**
@@ -58,8 +54,6 @@
 - **Database** : MariaDB
 - **Design** : Figma
 - **Diagram** : draw.io, PlantUML
-
-🔗 **GitHub Repository** : [Pitchplay 프로젝트](https://github.com/coding-ji/portfolio/tree/main/pitchplay)
 
 ---
 
