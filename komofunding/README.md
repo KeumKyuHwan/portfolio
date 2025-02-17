@@ -43,10 +43,3 @@ Komofunding 프로젝트에 대한 프레젠테이션 파일은 [여기](https:/
 - React와 Spring Boot 간 원활한 데이터 흐름을 위한 API 연동
 
 ## Github 주소 : https://github.com/coding-ji/komofunding.git
-
-## Komofunding 프로젝트 Main 화면 영상
-
-<video width="640" height="360" controls>
-  <source src="https://github.com/KeumKyuHwan/portfolio/blob/main/komofunding/videos/komofunding_main.mp4?raw=true" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
