@@ -4,8 +4,6 @@ Komofunding은 사용자의 프로젝트를 홍보하고 다른 사용자로부�
 
 ## Komofunding 프로젝트 발표
 
-Komofunding 프로젝트에 대한 발표 자료는 아래 링크에서 확인하실 수 있습니다:
-
 Komofunding 프로젝트에 대한 프레젠테이션 파일은 [여기](https://github.com/KeumKyuHwan/portfolio/blob/main/komofunding/presentation/KOMOFUNDING__.pdf)에서 확인하실 수 있습니다.
 
 ## 기간
