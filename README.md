@@ -39,6 +39,9 @@
 📌 JPA를 활용한 데이터 관리  
 📌 인덱싱을 사용하여 검색 속도 개선
 
+#### 기여부분
+https://github.com/KeumKyuHwan/portfolio/tree/main/komofunding
+
 ---
 
 ### ⚽ 축구 매칭 플랫폼, **Pitchplay**
