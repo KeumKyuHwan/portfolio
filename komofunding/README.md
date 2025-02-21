@@ -4,8 +4,6 @@ Komofunding은 사용자의 프로젝트를 홍보하고 다른 사용자로부�
 
 ## Komofunding 프로젝트 발표
 
-[![Komofunding 발표 미리보기](https://github.com/KeumKyuHwan/portfolio/assets/presentation)](https://github.com/KeumKyuHwan/portfolio/blob/main/komofunding/presentation/KOMOFUNDING__.pdf)
-
 📄 [전체 PDF 보기](https://github.com/KeumKyuHwan/portfolio/blob/main/komofunding/presentation/KOMOFUNDING__.pdf)
 
 ## 기간
