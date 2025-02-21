@@ -49,3 +49,4 @@ Komofunding 프로젝트에 대한 프레젠테이션 파일은 [여기](https:/
 #### 메인 화면
 - ###### 메인 화면은 프로젝트의 달성률과 대표 이미지를 중심으로 간결하게 구성하였습니다. Framer motion을 활용하여 다양한 애니메이션을 적용하여 동적인 사용자 경험을 제공합니다.
 
+![komofunding main](https://github.com/user-attachments/assets/8980fef9-761b-40d1-9b40-73925e2ba01f)
